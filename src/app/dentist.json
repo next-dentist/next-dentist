@@ -1,0 +1,306 @@
+{
+    "id": "cm22yfsj40003acfjg2ve1rjb",
+    "timezone": null,
+    "userId": "cma5qnmzz000bjsjympim8j0q",
+    "name": "Dr. Rashmi Daswani",
+    "email": "rashmidaswani15@gmail.com",
+    "emailVerified": false,
+    "image": "https://images.doctornextgen.com/cropped/89020192-2fd0-4afc-b630-741582cf0f35.jpeg",
+    "seo": null,
+    "priceStart": null,
+    "currency": "₹",
+    "gender": "female",
+    "dob": "",
+    "verified": true,
+    "freeConsultation": false,
+    "experience": "10",
+    "shortBio": "Dr. Rashmi Daswani is a highly skilled and compassionate dentist at Daswani Dental Clinic, dedicated to providing exceptional dental care. With a strong commitment to patient comfort and well-being, Dr. Daswani offers a wide range of services, from routine check-ups to advanced treatments, using the latest dental technologies. Her expertise, combined with a warm, patient-centric approach, ensures that every visit to Daswani Dental Clinic is a positive experience.\n",
+    "longBio": "",
+    "phone": "+919725286177",
+    "address": "Paragraj Society, Gayatri Nager Society, Kishanwadi, Vadodara, Gujarat 390006",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "country": "India",
+    "slug": "rashmi-daswani-q3z90a",
+    "status": "verified",
+    "rating": 4,
+    "totalReviews": 4,
+    "practiceLocation": "H-13, Chaturbhai Park, complex, Harni - Warasiya Ring Rd, Waghela Nagar, Bapunagar, Vadodara, Gujarat 390006, India",
+    "latitude": 22.3139289,
+    "longitude": 73.22202779999999,
+    "speciality": "General Dentistry",
+    "createdAt": "2024-10-10T07:05:50.896Z",
+    "updatedAt": "2025-06-01T16:04:09.155Z",
+    "businessHours": {
+        "Friday": {
+            "Name": "Fri",
+            "Hours": [
+                {
+                    "to": "06:00 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Monday": {
+            "Name": "Mon",
+            "Hours": [
+                {
+                    "to": "06:00 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Sunday": {
+            "Name": "Sun",
+            "Hours": [],
+            "Closed": true
+        },
+        "Tuesday": {
+            "Name": "Tue",
+            "Hours": [
+                {
+                    "to": "06:00 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Saturday": {
+            "Name": "Sat",
+            "Hours": [
+                {
+                    "to": "06:00 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Thursday": {
+            "Name": "Thu",
+            "Hours": [
+                {
+                    "to": "06:00 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Wednesday": {
+            "Name": "Wed",
+            "Hours": [
+                {
+                    "to": "06:00 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        }
+    },
+    "acceptsInsurance": false,
+    "DegreesID": "[1]",
+    "dentistDegree": [
+        {
+            "id": "1",
+            "name": "BDS",
+            "fullName": "Bachelor of Dental Surgery"
+        }
+    ],
+    "treatmentCompleted": 600,
+    "patientsServed": 500,
+    "isAvailable": null,
+    "isQuickResponse": null,
+    "hasVideoCall": false,
+    "specialLineOneTitle": "",
+    "specialLineOne": "",
+    "specialLineTwoTitle": "",
+    "specialLineTwo": "",
+    "specialLineThreeTitle": "",
+    "specialLineThree": "",
+    "lastName": null,
+    "website": "",
+    "zipCode": "",
+    "dateAndTime": "2025-03-30T03:21:02.234Z",
+    "updatedDateAndTime": "2025-06-01T16:04:09.155Z",
+    "socialLinks": null,
+    "awards": null,
+    "alumniOf": null,
+    "workingAt": null,
+    "nationality": null,
+    "knowsAbout": null,
+    "images": [
+        {
+            "id": "cm9hijzkh000rjscsnwfyrpsj",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0032-1744661738679-221b8068b055d0e4.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzkm000tjscsslsvgc4n",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0029-1744661738530-531ef03116db83d4.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzl7000vjscs8l1qczpu",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0031-1744661738654-b14de3916a5b466f.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzny000xjscso5ev9bne",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0025-1744661738560-45bb0b691309aa29.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzos000zjscsrik998c5",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0026-1744661738595-8e6b62501850785e.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzov0011jscs44wti01o",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0033-1744661738502-d448710d32800e97.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzoz0013jscsm6u17vk1",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0034-1744661738636-4a6fded71bbbf345.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzpk0015jscsmgo2xlv0",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0027-1744661738438-452018c51b6fd096.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzpk0017jscsdjs1yemt",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0030-1744661738717-22432618130d7736.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9hijzpn0019jscs583910ko",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0028-1744661738741-845a21726091f774.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cm9him62k001bjscst4mjw1y8",
+            "url": "http://images.nextdentist.com//gallery//img-20250414-wa0039-1744661843438-22ee97565fc54879.jpg",
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "alt": null,
+            "height": null,
+            "width": null
+        }
+    ],
+    "treatments": [
+        {
+            "id": "cm9hiuo6o001ljscsvdvct9mi",
+            "slug": "dental-scaling",
+            "image": "https://images.doctornextgen.com/cropped/0fc6ab2e-ded8-4522-965b-02b00099be45.jpeg",
+            "name": "Dental scaling",
+            "description": "Dental scaling is a cleaning procedure to remove plaque and tartar buildup from teeth and below the gum line. It helps prevent gum disease and bad breath.",
+            "price": null,
+            "currency": "₹",
+            "minPrice": null,
+            "maxPrice": null,
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "duration": "2 visits",
+            "createdAt": "2025-04-14T20:24:00.241Z",
+            "updatedAt": "2025-04-14T20:24:00.241Z",
+            "TreatmentMetaId": "0tzcep"
+        },
+        {
+            "id": "cm9hivkap001mjscs0wcyrios",
+            "slug": "tooth-extraction-mw9h1",
+            "image": "https://images.doctornextgen.com/cropped/66142daf-ee1a-4ee5-a3a5-6f195834fb5a.jpeg",
+            "name": "Tooth Extraction",
+            "description": "Tooth extraction, also known as having a tooth pulled, is a common dental procedure to remove a tooth from its socket in the jawbone. ",
+            "price": null,
+            "currency": "₹",
+            "minPrice": null,
+            "maxPrice": null,
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "duration": "15 mins",
+            "createdAt": "2025-04-14T20:24:41.858Z",
+            "updatedAt": "2025-04-14T20:24:41.858Z",
+            "TreatmentMetaId": "03fbvh"
+        },
+        {
+            "id": "cm9hivn3f001njscs5d20dh8u",
+            "slug": "dentures",
+            "image": "https://images.doctornextgen.com/cropped/398f06d3-b5cf-475b-ac83-bfcc7155c091.jpeg",
+            "name": "Dentures",
+            "description": "Removable prosthetics used to replace multiple or all missing teeth. Full dentures replace all teeth, while partial dentures replace a few missing teeth.",
+            "price": null,
+            "currency": "₹",
+            "minPrice": null,
+            "maxPrice": null,
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "duration": "More then 1 hour",
+            "createdAt": "2025-04-14T20:24:45.484Z",
+            "updatedAt": "2025-04-14T20:24:45.484Z",
+            "TreatmentMetaId": "0n8mw"
+        },
+        {
+            "id": "cm9hivrju001ojscs0fmc3nzx",
+            "slug": "dental-scaling",
+            "image": "https://images.doctornextgen.com/cropped/0fc6ab2e-ded8-4522-965b-02b00099be45.jpeg",
+            "name": "Dental scaling",
+            "description": "Dental scaling is a cleaning procedure to remove plaque and tartar buildup from teeth and below the gum line. It helps prevent gum disease and bad breath.",
+            "price": null,
+            "currency": "₹",
+            "minPrice": null,
+            "maxPrice": null,
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "duration": "2 visits",
+            "createdAt": "2025-04-14T20:24:51.258Z",
+            "updatedAt": "2025-04-14T20:24:51.258Z",
+            "TreatmentMetaId": "0tzcep"
+        },
+        {
+            "id": "cm9hivv29001pjscswa9uh2h3",
+            "slug": "dental-x-rays",
+            "image": "https://images.doctornextgen.com/cropped/52e7ab06-b366-4760-8ce2-af308049a043.jpeg",
+            "name": "Dental X-rays",
+            "description": "Dental X-rays, also known as radiographs, are images of your teeth and jaws. Dentists use these images to examine structures they can't see during a regular checkup",
+            "price": null,
+            "currency": "₹",
+            "minPrice": null,
+            "maxPrice": null,
+            "dentistId": "cm22yfsj40003acfjg2ve1rjb",
+            "duration": "15 mins",
+            "createdAt": "2025-04-14T20:24:55.810Z",
+            "updatedAt": "2025-04-14T20:24:55.810Z",
+            "TreatmentMetaId": "4k163i"
+        }
+    ],
+    "specializations": [],
+    "languages": []
+}

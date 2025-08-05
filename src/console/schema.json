@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dr. John Doe",
+  "alternateName": "John Doe",
+  "jobTitle": "Dentist",
+  "image": "https://example.com/john-doe.jpg",
+  "description": "Dr. John Doe is an experienced dentist specializing in cosmetic dentistry, dental implants, and preventive dental care.",
+  "url": "https://example.com/dr-john-doe",
+  "sameAs": [
+    "https://www.facebook.com/drjohndoe",
+    "https://twitter.com/drjohndoe",
+    "https://www.instagram.com/drjohndoe",
+    "https://www.linkedin.com/in/drjohndoe"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2nd Floor, Niharika Complex, Vishwas Colony Road, RC Dutt Road, Alkapuri",
+    "addressLocality": "Vadodara",
+    "addressRegion": "Gujarat",
+    "postalCode": "390007",
+    "addressCountry": "IN"
+  },
+  "email": "mailto:johndoe@example.com",
+  "telephone": "+919825000000",
+  "birthDate": "1985-04-12",
+  "gender": "Male",
+  "nationality": {
+    "@type": "Country",
+    "name": "India"
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Gujarat University",
+      "sameAs": "https://www.gujaratuniversity.ac.in/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Harvard University",
+      "sameAs": "https://www.harvard.edu/"
+    }
+  ],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Care 32 Dental Clinic",
+      "url": "https://care32dental.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "Smile Bright Dental Center",
+      "url": "https://smilebrightdental.com"
+    }
+  ],
+  "knowsAbout": [
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Cosmetic Dentistry",
+      "url": "https://en.wikipedia.org/wiki/Cosmetic_dentistry"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Dental Implants",
+      "url": "https://en.wikipedia.org/wiki/Dental_implant"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Orthodontics",
+      "url": "https://en.wikipedia.org/wiki/Orthodontics"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Teeth Whitening",
+      "url": "https://en.wikipedia.org/wiki/Teeth_whitening"
+    }
+  ],
+  "award": [
+    "Best Dentist Award - Vadodara 2024",
+    "Dental Excellence Award - 2023"
+  ],
+  "knowsLanguage": [
+    {
+      "@type": "Language",
+      "name": "English"
+    },
+    {
+      "@type": "Language",
+      "name": "Hindi"
+    },
+    {
+      "@type": "Language",
+      "name": "Gujarati"
+    }
+  ]
+}

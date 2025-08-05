@@ -1,0 +1,125 @@
+
+
+/* Basic styles to enhance reading experience for content blocks */
+.reader-content {
+  /* Set a comfortable maximum width for lines of text to improve readability */
+  margin: 0 auto; /* Center the content block horizontally */
+  padding: 1.5rem; /* Add generous padding around the content */
+  color: #333; /* Dark grey for good contrast against a light background */
+  line-height: 1.7; /* Generous line height for better readability and less eye strain */
+}
+
+/* Paragraph styling */
+.reader-content p {
+  margin-bottom: 1.4em; /* Consistent spacing between paragraphs */
+}
+
+/* Heading styling */
+.reader-content h1,
+.reader-content h2,
+.reader-content h3,
+.reader-content h4,
+.reader-content h5,
+.reader-content h6 {
+  font-weight: 700; /* Bold headings for clear hierarchy */
+  line-height: 1.3; /* Tighter line height for headings */
+  color: #222; /* Even darker color for headings */
+
+  margin-bottom: 1rem;
+}
+hr{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+
+
+/* List styling */
+.reader-content ul,
+.reader-content ol {
+  margin-bottom: 1.2em;
+  padding-left: 1.8em; /* Indent list items for clear structure */
+  list-style-type: disc;
+  
+}
+
+.reader-content li {
+  margin-bottom: 0.6em; /* Space between list items */
+  line-height: 1.6; /* Consistent line height for list items */
+  
+}
+
+/* Link styling */
+.reader-content a {
+  text-decoration: underline; /* Underline links for clear affordance */
+  transition: color 0.2s ease-in-out; /* Smooth transition for hover effect */
+}
+
+.reader-content a:hover {
+  color: #0056b3; /* Darker blue on hover */
+  text-decoration: none; /* Remove underline on hover for a cleaner look */
+}
+
+/* Blockquote styling */
+.reader-content blockquote {
+  border-left: 5px solid #ccc; /* Visual cue for blockquotes */
+  padding-left: 1.5em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: #555;
+  background-color: #f9f9f9; /* Slightly different background for quotes */
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border-radius: 4px; /* Slightly rounded corners */
+}
+
+/* make h1, h2, h3, h4, h5, h6 font size 1.3rem */
+
+.reader-content h2 {
+  font-size: 1.4rem;
+}
+
+.reader-content h3 {
+  font-size: 1.2rem;
+}
+
+.reader-content h4 {
+  font-size: 1.1rem;
+}
+
+/* Code styling (inline and block) */
+.reader-content code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; /* Monospaced font for code */
+  background-color: #eee;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em; /* Slightly smaller font for inline code */
+}
+
+.reader-content pre {
+  background-color: #2d2d2d; /* Dark background for code blocks */
+  color: #f8f8f2; /* Light text for contrast */
+  padding: 1em;
+  border-radius: 5px;
+  overflow-x: auto; /* Allow horizontal scrolling for long lines of code */
+  font-size: 0.9em;
+}
+
+/* Table styling */
+.reader-content table {
+  width: 100%;
+  border-collapse: collapse; /* Collapse borders for a cleaner look */
+  margin-bottom: 1.5em;
+}
+
+.reader-content th,
+.reader-content td {
+  border: 1px solid #ddd; /* Light borders for table cells */
+  padding: 0.8em;
+  text-align: left;
+}
+
+.reader-content th {
+  background-color: #f2f2f2; /* Light background for table headers */
+  font-weight: bold;
+}

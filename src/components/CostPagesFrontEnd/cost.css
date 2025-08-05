@@ -1,0 +1,146 @@
+/* Basic styles to enhance reading experience for content blocks */
+.reader-content {
+  /* Set a comfortable maximum width for lines of text to improve readability */
+  margin: 0 auto; /* Center the content block horizontally */
+  padding: 1.5rem; /* Add generous padding around the content */
+  color: #333; /* Dark grey for good contrast against a light background */
+  line-height: 1.7; /* Generous line height for better readability and less eye strain */
+}
+
+/* Paragraph styling */
+.reader-content p {
+  margin-bottom: 1.2em; /* Consistent spacing between paragraphs */
+}
+
+/* Heading styling */
+.reader-content h1,
+.reader-content h2,
+.reader-content h3,
+.reader-content h4,
+.reader-content h5,
+.reader-content h6 {
+  font-weight:bold; /* Bold headings for clear hierarchy */
+  line-height: 1.3; /* Tighter line height for headings */
+  color: #222; /* Even darker color for headings */
+
+
+}
+
+
+
+/* Horizontal rule styling */
+.reader-content hr {
+  border: none;
+  height: 1px;
+  background-color: #e0e0e0;
+  margin: 2.5em 0; /* Generous spacing above and below */
+}
+
+/* List styling */
+.reader-content ul,
+.reader-content ol {
+  margin-bottom: 1.5em; /* Increased spacing after lists */
+  margin-top: 1em; /* Add spacing before lists */
+  padding-left: 1.8em; /* Indent list items for clear structure */
+}
+
+.reader-content li {
+  margin-bottom: 0.8em; /* Increased space between list items */
+  line-height: 1.6; /* Consistent line height for list items */
+}
+
+.reader-content ul li {
+  list-style-type: disc; /* Ensure bullet points are visible */
+}
+
+.reader-content ol li {
+  list-style-type: decimal; /* Ensure numbers are visible */
+}
+
+/* Nested list styling */
+.reader-content ul ul,
+.reader-content ol ol,
+.reader-content ul ol,
+.reader-content ol ul {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+/* Link styling */
+.reader-content a {
+  text-decoration: underline; /* Underline links for clear affordance */
+  transition: color 0.2s ease-in-out; /* Smooth transition for hover effect */
+}
+
+.reader-content a:hover {
+  color: #0056b3; /* Darker blue on hover */
+  text-decoration: none; /* Remove underline on hover for a cleaner look */
+}
+
+/* Blockquote styling */
+.reader-content blockquote {
+  border-left: 5px solid #ccc; /* Visual cue for blockquotes */
+  padding-left: 1.5em;
+  margin: 2em 0; /* Increased spacing around blockquotes */
+  font-style: italic;
+  color: #555;
+  background-color: #f9f9f9; /* Slightly different background for quotes */
+  padding-top: 1em; /* Increased vertical padding */
+  padding-bottom: 1em;
+  padding-right: 1em; /* Add right padding for better spacing */
+  border-radius: 4px; /* Slightly rounded corners */
+}
+
+/* Code styling (inline and block) */
+.reader-content code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; /* Monospaced font for code */
+  background-color: #eee;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em; /* Slightly smaller font for inline code */
+}
+
+.reader-content pre {
+  background-color: #2d2d2d; /* Dark background for code blocks */
+  color: #f8f8f2; /* Light text for contrast */
+  padding: 1.5em; /* Increased padding for better spacing */
+  border-radius: 5px;
+  overflow-x: auto; /* Allow horizontal scrolling for long lines of code */
+  font-size: 0.9em;
+  margin: 1.5em 0; /* Add spacing around code blocks */
+}
+
+
+
+
+/* Additional content enhancements */
+.reader-content strong,
+.reader-content b {
+  font-weight: 700; /* Ensure bold text is clearly visible */
+}
+
+.reader-content em,
+.reader-content i {
+  font-style: italic;
+}
+
+/* Image styling */
+.reader-content img {
+  max-width: 100%;
+  height: auto;
+  margin: 1.5em 0; /* Add spacing around images */
+}
+
+/* Figure and caption styling */
+.reader-content figure {
+  margin: 2em 0;
+  text-align: center;
+}
+
+.reader-content figcaption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+  font-style: italic;
+}
+

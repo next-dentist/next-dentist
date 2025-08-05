@@ -1,0 +1,494 @@
+{
+    "id": "cm2c4a6ok0009xpldw170anle",
+    "timezone": null,
+    "userId": "cm227scs00000o1e91ffssejg",
+    "name": "Dr. Dhaval Trivedi",
+    "email": "info@estheticaindia.com",
+    "emailVerified": false,
+    "image": "https://images.doctornextgen.com/cropped/823a9088-ff28-4f88-9542-64ec4f4d7c42.jpeg",
+    "seo": null,
+    "priceStart": "300",
+    "currency": "INR",
+    "gender": "",
+    "dob": "1988-05-05",
+    "verified": true,
+    "freeConsultation": false,
+    "experience": "15",
+    "shortBio": "Dr. Dhaval Trivedi is a gold medal-winning oral and maxillofacial surgeon, facial cosmetic surgeon, and implantologist based in Vadodara. He is a graduate of DY Patil School of Dentistry in Mumbai.",
+    "longBio": "I have more than a decade of experience in private practice. I combine the proven methods of conventional dentistry with the cutting edge, state of the art techniques of modern adhesive dentistry. I love to work at Esthetica, which was built with the mandate of creating the absolute best environment for dentistry. I take pride in learning, amalgamating, promoting and providing the best dentistry has to offer to my patients.\n\nI believe that the process of dentistry should be a positive one, which includes a knowledgeable dentist and patient. So discussion of treatment plans and patient understanding is at the forefront of my goals.",
+    "phone": "+917874700596",
+    "address": "201-203, Bricklane 1964 ,\r\nOpp Ratri Bazar, Mangal Pandey Road,\r\nNear L & T Circle, Karelibagh",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "country": "India",
+    "slug": "dhaval-trivedi-53okr",
+    "status": "verified",
+    "rating": 5,
+    "totalReviews": 1,
+    "practiceLocation": "SF-201-203, Bricklane 1964, Mangal Pandey Rd, near L&T Circle, opp. ratri bazar, Jalaram Nagar 1, Veer Nagar, Karelibagh, Vadodara, Gujarat 390018, India",
+    "latitude": 22.3258416,
+    "longitude": 73.1974644,
+    "speciality": "Dental Implants",
+    "createdAt": "2024-10-16T16:59:22.577Z",
+    "updatedAt": "2025-06-03T15:24:26.974Z",
+    "businessHours": {
+        "Friday": {
+            "Name": "Fri",
+            "Hours": [
+                {
+                    "to": "07:30 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Monday": {
+            "Name": "Mon",
+            "Hours": [
+                {
+                    "to": "07:30 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Sunday": {
+            "Name": "Sun",
+            "Hours": [],
+            "Closed": true
+        },
+        "Tuesday": {
+            "Name": "Tue",
+            "Hours": [
+                {
+                    "to": "07:30 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Saturday": {
+            "Name": "Sat",
+            "Hours": [
+                {
+                    "to": "07:30 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Thursday": {
+            "Name": "Thu",
+            "Hours": [
+                {
+                    "to": "07:30 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        },
+        "Wednesday": {
+            "Name": "Wed",
+            "Hours": [
+                {
+                    "to": "07:30 PM",
+                    "from": "10:00 AM"
+                }
+            ],
+            "Closed": false
+        }
+    },
+    "acceptsInsurance": true,
+    "DegreesID": "[1,6]",
+    "dentistDegree": [
+        {
+            "id": "6",
+            "name": "MDS",
+            "fullName": "Master of Dental Surgery"
+        },
+        {
+            "id": "1",
+            "name": "BDS",
+            "fullName": "Bachelor of Dental Surgery"
+        }
+    ],
+    "treatmentCompleted": 6000,
+    "patientsServed": 4500,
+    "isAvailable": null,
+    "isQuickResponse": null,
+    "hasVideoCall": false,
+    "specialLineOneTitle": "",
+    "specialLineOne": "",
+    "specialLineTwoTitle": "",
+    "specialLineTwo": "",
+    "specialLineThreeTitle": "",
+    "specialLineThree": "",
+    "lastName": null,
+    "website": "https://estheticaindia.com/",
+    "zipCode": "",
+    "dateAndTime": "2025-03-30T03:21:02.234Z",
+    "updatedDateAndTime": "2025-06-03T15:24:26.974Z",
+    "socialLinks": {
+        "facebook": "https://www.facebook.com/Estheticavadodara",
+        "instagram": "https://www.instagram.com/esthetica.hospital.vadodara/"
+    },
+    "awards": [
+        {
+            "name": "Top Dental Care Award",
+            "dateAwarded": "1988-10-10"
+        },
+        {
+            "name": "Top Dentist Aawrd",
+            "dateAwarded": "2000-10-10"
+        }
+    ],
+    "alumniOf": [
+        {
+            "name": "Dy Patil School of Dentistry",
+            "@type": "CollegeOrUniversity",
+            "sameAs": "https://dypatil.edu/schools/school-of-dentistry"
+        },
+        {
+            "name": "THE MAHARAJA SAYAJIRAO UNIVERSITY OF BARODA",
+            "@type": "CollegeOrUniversity",
+            "sameAs": "https://msubaroda.ac.in/"
+        }
+    ],
+    "workingAt": [
+        {
+            "@type": "Organization",
+            "name": "Esthetica dental Clinic",
+            "sameAs": "https://estheticaindia.com/",
+            "position": "Senior Dentist",
+            "startDate": "2017-10-10"
+        },
+        {
+            "@type": "Organization",
+            "name": "Baroda Dental Clinic",
+            "sameAs": "https://barodadental.com/",
+            "position": "Senior Dentist",
+            "startDate": "2020-10-10"
+        }
+    ],
+    "nationality": null,
+    "knowsAbout": [
+        {
+            "@type": "Thing",
+            "name": "implantology",
+            "description": "Implantology is a branch of dentistry that focuses on the use of dental implants to replace missing teeth. "
+        },
+        {
+            "@type": "Thing",
+            "name": "Oral Surgeon",
+            "description": "An oral surgeon is a dental specialist who performs surgical procedures on the mouth, jaws, and face, including extractions, implants, and corrective surgeries."
+        }
+    ],
+    "images": [
+        {
+            "id": "cmbgdtpb60004dbnsbr0w3bds",
+            "url": "https://images.nextdentist.com/uploads/uploads/360-f-619809481-maimtwdqoh82enxrdmts6rzg-1748946882982-ae9f79adf0975776.webp",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "alt": "360_F_619809481_MaiMtWDqoh82enXrdMTS6rzGV4o5ReAE.webp",
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cmbgmfwac0008db642qz52amz",
+            "url": "https://images.nextdentist.com/uploads/uploads/360-f-1349693241-6kmse3fvblf3bg6rgkjj1xg-1748961358704-a563097c019b4f29.webp",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "alt": "360_F_1349693241_6kmSe3fVbLf3Bg6RGKjj1XgqgglYOT2A.webp",
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cmbgmfwc1000bdb64qqh5jx0e",
+            "url": "https://images.nextdentist.com/uploads/uploads/360-f-1129423760-bcczumhztvpsleyh4ittlsb-1748961358710-2e7e671a24400ea5.webp",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "alt": "360_F_1129423760_BcCzUMHZtvpsleYh4IttlSBira8ugSxd.webp",
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cmbgmfy8a000edb64lridymft",
+            "url": "https://images.nextdentist.com/uploads/uploads/360-f-187242830-dq9rb9w9hhs6mgfkvbfk2jwd-1748961358709-88024a199a11eef9.webp",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "alt": "360_F_187242830_Dq9RB9W9hhS6mGfKvbfk2jWDMyS9qu1t.webp",
+            "height": null,
+            "width": null
+        },
+        {
+            "id": "cmbgmfyhx000hdb64xc12gwfw",
+            "url": "https://images.nextdentist.com/uploads/uploads/360-f-185557586-kpigefogefvftiwcuxz5mgaj-1748961358708-d92b902fe4bebf35.webp",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "alt": "360_F_185557586_kpIGeFOGEfvftiwcUxz5MgaJoCnFqerR.webp",
+            "height": null,
+            "width": null
+        }
+    ],
+    "treatments": [
+        {
+            "id": "94kw1",
+            "slug": null,
+            "image": "https://images.doctornextgen.com/cropped/66142daf-ee1a-4ee5-a3a5-6f195834fb5a.jpeg",
+            "name": "Tooth Extraction",
+            "description": "Tooth extraction, also known as having a tooth pulled, is a common dental procedure to remove a tooth from its socket in the jawbone. ",
+            "price": "500",
+            "currency": "₹",
+            "minPrice": "500",
+            "maxPrice": "2000",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "15 mins",
+            "createdAt": "2024-11-03T05:39:26.847Z",
+            "updatedAt": "2024-11-03T05:39:26.847Z",
+            "TreatmentMetaId": "03fbvh"
+        },
+        {
+            "id": "cmbff192c006pjs3ltbclpa4f",
+            "slug": "dental-x-rays",
+            "image": "https://images.doctornextgen.com/cropped/52e7ab06-b366-4760-8ce2-af308049a043.jpeg",
+            "name": "Dental X-rays",
+            "description": "Dental X-rays, also known as radiographs, are images of your teeth and jaws. Dentists use these images to examine structures they can't see during a regular checkup",
+            "price": "150",
+            "currency": "₹",
+            "minPrice": "150",
+            "maxPrice": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "15 mins",
+            "createdAt": "2025-06-02T18:21:01.092Z",
+            "updatedAt": "2025-06-02T18:21:01.092Z",
+            "TreatmentMetaId": "4k163i"
+        },
+        {
+            "id": "cmbg69vnc000ojsaj9k4k32kr",
+            "slug": "dental-scaling",
+            "image": "https://images.doctornextgen.com/cropped/0fc6ab2e-ded8-4522-965b-02b00099be45.jpeg",
+            "name": "Dental scaling",
+            "description": "Dental scaling is a cleaning procedure to remove plaque and tartar buildup from teeth and below the gum line. It helps prevent gum disease and bad breath.",
+            "price": "500",
+            "currency": "₹",
+            "minPrice": "500",
+            "maxPrice": "2000",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "2 visits",
+            "createdAt": "2025-06-03T07:03:33.240Z",
+            "updatedAt": "2025-06-03T07:03:33.240Z",
+            "TreatmentMetaId": "0tzcep"
+        },
+        {
+            "id": "cmbg6ad8u000pjsajpa8pkrdo",
+            "slug": "dental-implants",
+            "image": "https://images.doctornextgen.com/cropped/158fb234-2513-4ea8-8bf0-4720c869113b.jpeg",
+            "name": "Dental Implants",
+            "description": "Dental implants are artificial tooth roots surgically placed in the jawbone to hold replacement teeth. They provide a strong and stable foundation for crowns, bridges, or dentures.",
+            "price": "10000",
+            "currency": "₹",
+            "minPrice": "10000",
+            "maxPrice": "50000",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "more than 1 month",
+            "createdAt": "2025-06-03T07:03:56.046Z",
+            "updatedAt": "2025-06-03T07:03:56.046Z",
+            "TreatmentMetaId": "5s5m1i"
+        },
+        {
+            "id": "cmbg7ggcm000qjsajn5lru0z6",
+            "slug": "clear-aligner",
+            "image": "https://images.doctornextgen.com/cropped/0565683f-3a4a-485b-af92-bd53668f29e3.jpeg",
+            "name": "Clear Aligner",
+            "description": "Clear aligners are a series of custom-made, transparent aligners that gradually shift your teeth into a more desirable position. They are a discreet alternative to traditional braces.",
+            "price": "100000",
+            "currency": "₹",
+            "minPrice": "100000",
+            "maxPrice": "300000",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "more than 1 month",
+            "createdAt": "2025-06-03T07:36:39.623Z",
+            "updatedAt": "2025-06-03T07:36:39.623Z",
+            "TreatmentMetaId": "5y9ot"
+        },
+        {
+            "id": "cmbg7gt8w000rjsajfngp1kx5",
+            "slug": "smile-design",
+            "image": "https://images.doctornextgen.com/cropped/e61efbc4-5c8f-4d0a-a2a3-e1c2ac7ce79f.jpeg",
+            "name": "Smile Design",
+            "description": "Smile Design is a personalized cosmetic dental process aimed at enhancing the appearance of a person’s smile by harmonizing the teeth, gums, and facial features",
+            "price": "5000",
+            "currency": "₹",
+            "minPrice": "50000",
+            "maxPrice": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "More then 1 hour",
+            "createdAt": "2025-06-03T07:36:56.336Z",
+            "updatedAt": "2025-06-03T07:36:56.336Z",
+            "TreatmentMetaId": "6kw2x6"
+        },
+        {
+            "id": "cmbg7hpz0000sjsajl16lgj1c",
+            "slug": "teeth-polishing",
+            "image": "https://images.doctornextgen.com/cropped/a2ee36bc-b2ee-4fc4-9094-65ed88182be6.jpeg",
+            "name": "Teeth Polishing",
+            "description": "Teeth polishing is a dental procedure that smooths the surface of your teeth to remove plaque, tartar, and surface stains. This improves their appearance and helps prevent future buildup.",
+            "price": "500",
+            "currency": "₹",
+            "minPrice": "500",
+            "maxPrice": "2000",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "15 mins",
+            "createdAt": "2025-06-03T07:37:38.741Z",
+            "updatedAt": "2025-06-03T07:41:19.026Z",
+            "TreatmentMetaId": "8zq2li"
+        },
+        {
+            "id": "cmbg7y8re0012jsaj1mvh25m5",
+            "slug": "all-on-four-dental-implant",
+            "image": "http://images.nextdentist.com//gallery//all-on-four-1747853519265-fad85a80f597467a.webp",
+            "name": "All on Four Dental Implants",
+            "description": "If you're missing most or all of your teeth, All-on-4 dental implants can be a life-changing solution. ",
+            "price": "20000",
+            "currency": "₹",
+            "minPrice": null,
+            "maxPrice": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "1 Month",
+            "createdAt": "2025-06-03T07:50:29.594Z",
+            "updatedAt": "2025-06-03T07:50:29.594Z",
+            "TreatmentMetaId": "cmayavk4s0008js733kc0i60g"
+        },
+        {
+            "id": "cmbg7zekv0015jsaj7jjfeqfe",
+            "slug": "dental-check-up",
+            "image": "https://images.nextdentist.com/uploads/uploads/dental-checkup-1748886087402-ce6827c46d5efac4.webp",
+            "name": "Dental Check-Up",
+            "description": "A comprehensive dental check-up typically includes a thorough dental exam to assess your oral health",
+            "price": "500",
+            "currency": "₹",
+            "minPrice": null,
+            "maxPrice": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "15 Minutes",
+            "createdAt": "2025-06-03T07:51:23.791Z",
+            "updatedAt": "2025-06-03T07:51:23.791Z",
+            "TreatmentMetaId": "cmbfdmiv0006ajs3l70d3rz5s"
+        },
+        {
+            "id": "cmbgbcfck0017jsajwyl3rjrp",
+            "slug": "dental-cleanings",
+            "image": "https://images.nextdentist.com/uploads/uploads/teeth-cleaning-1748886356835-735cf569cd5e4173.webp",
+            "name": "Dental Cleanings",
+            "description": "Dental cleanings are professional procedures performed by a dentist or dental hygienist to remove plaque, tartar, and surface stains from your teeth. ",
+            "price": "500",
+            "currency": "₹",
+            "minPrice": null,
+            "maxPrice": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "30 Minutes",
+            "createdAt": "2025-06-03T09:25:30.164Z",
+            "updatedAt": "2025-06-03T09:25:30.164Z",
+            "TreatmentMetaId": "cmbfds7cw006cjs3lon4ad0k2"
+        },
+        {
+            "id": "cmbgbcnfj0018jsaj18dodwbu",
+            "slug": "fluoride-treatments",
+            "image": "https://images.nextdentist.com/uploads/uploads/floroside-treatment-1748886659400-9d1e333554f1217d.webp",
+            "name": "Fluoride Treatments",
+            "description": "Fluoride treatments are professional dental procedures that apply a highly concentrated fluoride solution, gel, foam, or varnish directly to the teeth. ",
+            "price": "500",
+            "currency": "₹",
+            "minPrice": "",
+            "maxPrice": "",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "15 Minutes",
+            "createdAt": "2025-06-03T09:25:40.640Z",
+            "updatedAt": "2025-06-03T09:25:55.677Z",
+            "TreatmentMetaId": "cmbfdyoc4006ejs3lyopk4vrt"
+        },
+        {
+            "id": "igodci",
+            "slug": null,
+            "image": "https://images.doctornextgen.com/cropped/398f06d3-b5cf-475b-ac83-bfcc7155c091.jpeg",
+            "name": "Dentures",
+            "description": "Removable prosthetics used to replace multiple or all missing teeth. Full dentures replace all teeth, while partial dentures replace a few missing teeth.",
+            "price": "15000",
+            "currency": "₹",
+            "minPrice": "10000",
+            "maxPrice": "20000",
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "duration": "3 visits",
+            "createdAt": "2024-11-03T05:53:56.660Z",
+            "updatedAt": "2024-11-03T05:53:56.660Z",
+            "TreatmentMetaId": "0n8mw"
+        }
+    ],
+    "specializations": [],
+    "languages": [],
+    "faq": [
+        {
+            "id": "cmbgmjofc000jdb64plbwdjqr",
+            "question": "What makes Dr. Dhaval Trivedi’s practice unique?",
+            "answer": "Over a decade of experience with a focus on combining proven and modern techniques. Emphasis on patient communication and understanding. Comfortable, anxiety-free environment for treatments. Personalized care and involvement in treatment planning",
+            "treatmentMetaId": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "createdAt": "2025-06-03T14:39:04.295Z",
+            "updatedAt": "2025-06-03T14:39:04.296Z"
+        },
+        {
+            "id": "cmbgmk6yt000ldb64dvuan2pw",
+            "question": "Does Dr. Dhaval Trivedi treat anxious patients?",
+            "answer": "es, the clinic is known for its welcoming and comfortable atmosphere, helping patients relax and overcome dental anxiety",
+            "treatmentMetaId": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "createdAt": "2025-06-03T14:39:28.324Z",
+            "updatedAt": "2025-06-03T14:39:28.326Z"
+        },
+        {
+            "id": "cmbgmkuyy000ndb64eslzm4yt",
+            "question": "Are flexible payment options available?",
+            "answer": "Yes, Esthetica offers flexible payment options and occasional discounts for various procedures",
+            "treatmentMetaId": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "createdAt": "2025-06-03T14:39:59.432Z",
+            "updatedAt": "2025-06-03T14:39:59.434Z"
+        },
+        {
+            "id": "cmbgmlcsc000pdb647hx70mxk",
+            "question": "Is the clinic easily accessible?",
+            "answer": "Yes, it is near the airport, express highway, and major areas in Vadodara",
+            "treatmentMetaId": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "createdAt": "2025-06-03T14:40:22.522Z",
+            "updatedAt": "2025-06-03T14:40:22.524Z"
+        },
+        {
+            "id": "cmbgmmarc000rdb648ow9frbx",
+            "question": "What treatments does Dr. Dhaval Trivedi offer?",
+            "answer": "General dentistry (fillings, cleaning, check-ups)\r\nCosmetic dentistry (teeth whitening, veneers, smile designing)\r\nDental implants and crowns\r\nBraces and teeth straightening (including invisible aligners)\r\nOral and maxillofacial surgery (wisdom tooth removal, facial trauma)\r\nFacial cosmetic surgery\r\nHair transplant surgery",
+            "treatmentMetaId": null,
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "createdAt": "2025-06-03T14:41:06.551Z",
+            "updatedAt": "2025-06-03T14:41:06.552Z"
+        }
+    ],
+    "TreatmentsReviews": [],
+    "features": [
+        {
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "featureId": "cmbgigp0z0000db2gls1n7riz"
+        },
+        {
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "featureId": "cmbgigp0z0001db2gbb6pczw3"
+        },
+        {
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "featureId": "cmbgigp0z0002db2gp85r35wz"
+        },
+        {
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "featureId": "cmbgigp0z0003db2gtx9mbqvq"
+        },
+        {
+            "dentistId": "cm2c4a6ok0009xpldw170anle",
+            "featureId": "cmbgigp0z0004db2g2myw6kdw"
+        }
+    ]
+}

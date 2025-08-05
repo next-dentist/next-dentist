@@ -1,0 +1,9 @@
+.body-content :where(ul) {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+  line-height: 1.7;
+}
+.body-content :where(li, ol) {
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
