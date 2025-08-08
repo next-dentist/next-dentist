@@ -24,7 +24,7 @@ export default function StarSelector({
             'cursor-pointer transition',
             (hover || value) >= i
               ? 'fill-[var(--color-primary)] text-[var(--color-primary)]'
-              : 'text-[var(--color-muted)]'
+              : 'text-[var(--color-primary)]'
           )}
           onMouseEnter={() => setHover(i)}
           onMouseLeave={() => setHover(0)}
